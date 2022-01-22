@@ -1,0 +1,30 @@
+Comandos por ordem
+
+git clone [link github]
+	clonar repositório do git
+
+cd 
+	para entrar no repositório(pasta), entrar na main
+	nisso podemos mexer dentro da passar, modificar, criar, fazer tudo. 
+
+git status 
+	para ver que criou uma pasta nova, ou alguma modificação 
+
+git add .
+	adcionar as modificações 
+
+git status 
+	nessa hora fica verdinho 
+
+git commit -m "[mensagem do commit]"
+
+git status 
+	precisa dar um push 
+
+git push origin main
+	mandar para nuvem 
+
+ 
+
+
+
